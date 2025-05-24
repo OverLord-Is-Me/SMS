@@ -1,0 +1,42 @@
+V1 Error in Deleting last corr or daily main or worker report for this main id
+V2 del equ work h Error
+v3 check list error in add
+V4 Error in delet lapor main report in report
+V5 Error in delet daily ckecklist main report in report with lapors
+V6 Error in delet daily ckecklist main report in report without lapors
+V7 error in update checklist
+v10 cant old active filter
+v11 cant find filter after already found it in active filter
+
+
+farahat1426
+farahat142631
+Km142631@
+Km1426@@
+
+ double dec1 = Math.Pow((id * 3.14), 2);
+ double dec2 = Math.Pow((id * 3.14), 3);
+ double num = ((id * dec1) + (id * dec2) + 777) * 12345;
+
+
+0   9592065
+1   10095972.39468
+4   115222739.73408
+5   263675805.67500004
+6   531201945.54528
+7   968980623.43067992
+8   1637363878.6012802
+9   2605876325.5114803
+10  3953215153.8000007
+11  5767250128.2898788
+12  8145023588.9884787
+13  11192750451.087479
+14  15025818204.962881
+15  19768786916.175
+16  25555389225.468483
+17  32528530348.772285
+18  40840288077.199684
+19  50651912777.048286
+20  62133827389.800011
+21  75465627432.121063
+22  90836080995.862061
